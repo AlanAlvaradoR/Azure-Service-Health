@@ -1,7 +1,7 @@
 # Azure-Service-Health
 Creación de alertas por interrupciones del servicio de Azure por medio de Service Health
 
-![Logo de Service Health](https://github.com/AlanAlvaradoR/Azure-Service-Health/blob/main/imagenes/servicehealth.png)
+![Logo de Service Health](https://github.com/AlanAlvaradoR/Azure-Service-Health/blob/main/imagenes/servicehealth.jpg)
 
 ## Requisitos
 
