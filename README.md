@@ -40,5 +40,5 @@ Creación de alertas por interrupciones del servicio de Azure por medio de Servi
 
 14. Ahora en el apartado de grupo de acciones se debe mostrar el grupo de acciones que seleccionamos.
 
-15. Más abajo se debe especificar el nombre d ela regla de alertas, una descripción, el grupo de recursos y seleccionar la casilla de ""habilitar la regla tras la creación". Se da click en "crear regla de alertas"
+15. Más abajo se debe especificar el nombre de la regla de alertas, una descripción, el grupo de recursos y seleccionar la casilla de "habilitar la regla tras la creación". Se da click en "crear regla de alertas".
 
